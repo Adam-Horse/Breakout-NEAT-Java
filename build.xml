@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="run" name="NEAT v4 Using Ant Compiler">
+	<target name="run" depends="compile">
+	</target>
+	<target name="compile">
+		<javac includeantruntime="false" srcdir="./src" destdir="staging" />
+	</target>
+</project>

@@ -1,0 +1,344 @@
+NEW GENERATION
+A new species, species 1,  has been added!
+Found a new best genome:
+(1, INPUT) -> (1, 0.5) -> (4, OUTPUT)
+(2, INPUT) -> (2, 0.5) -> (4, OUTPUT)
+(3, INPUT) -> (3, 0.5) -> (4, OUTPUT)
+
+Species 1 size: 100
+Best in species 1: 
+(1, INPUT) -> (1, 0.5) -> (4, OUTPUT)
+(2, INPUT) -> (2, 0.5) -> (4, OUTPUT)
+(3, INPUT) -> (3, 0.5) -> (4, OUTPUT)
+Size after butchering: 48
+Weight mutated in child
+Index of new child: 0
+
+Weight mutated in child
+Index of new child: 1
+
+Weight mutated in child
+Node mutated in child
+Index of new child: 2
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Node mutated in child
+Index of new child: 3
+
+There were no unconnected nodes to connect in this network!
+Index of new child: 4
+
+Index of new child: 5
+
+Weight mutated in child
+Index of new child: 6
+
+Weight mutated in child
+Index of new child: 7
+
+Weight mutated in child
+Index of new child: 8
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Index of new child: 9
+
+Weight mutated in child
+Index of new child: 10
+
+There were no unconnected nodes to connect in this network!
+Index of new child: 11
+
+Weight mutated in child
+Index of new child: 12
+
+Weight mutated in child
+Node mutated in child
+Index of new child: 13
+
+Index of new child: 14
+
+Weight mutated in child
+Index of new child: 15
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Index of new child: 16
+
+Weight mutated in child
+Index of new child: 17
+
+Weight mutated in child
+Index of new child: 18
+
+There were no unconnected nodes to connect in this network!
+Index of new child: 19
+
+There were no unconnected nodes to connect in this network!
+Index of new child: 20
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Index of new child: 21
+
+Weight mutated in child
+Node mutated in child
+Index of new child: 22
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Node mutated in child
+Index of new child: 23
+
+Weight mutated in child
+Index of new child: 24
+
+Weight mutated in child
+Index of new child: 25
+
+Weight mutated in child
+Node mutated in child
+Index of new child: 26
+
+Weight mutated in child
+Index of new child: 27
+
+There were no unconnected nodes to connect in this network!
+Index of new child: 28
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Index of new child: 29
+
+There were no unconnected nodes to connect in this network!
+Index of new child: 30
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Index of new child: 31
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Node mutated in child
+Index of new child: 32
+
+Weight mutated in child
+Index of new child: 33
+
+Node mutated in child
+Index of new child: 34
+
+Weight mutated in child
+Index of new child: 35
+
+Weight mutated in child
+Index of new child: 36
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Index of new child: 37
+
+There were no unconnected nodes to connect in this network!
+Node mutated in child
+Index of new child: 38
+
+Index of new child: 39
+
+Weight mutated in child
+Index of new child: 40
+
+Weight mutated in child
+Node mutated in child
+Index of new child: 41
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Index of new child: 42
+
+Weight mutated in child
+Index of new child: 43
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Node mutated in child
+Index of new child: 44
+
+Weight mutated in child
+Index of new child: 45
+
+Weight mutated in child
+Index of new child: 46
+
+Weight mutated in child
+Index of new child: 47
+
+Weight mutated in child
+Index of new child: 48
+
+Weight mutated in child
+Index of new child: 49
+
+Node mutated in child
+Index of new child: 50
+
+Weight mutated in child
+Index of new child: 51
+
+Weight mutated in child
+Index of new child: 52
+
+Weight mutated in child
+Index of new child: 53
+
+Weight mutated in child
+Index of new child: 54
+
+Weight mutated in child
+Index of new child: 55
+
+There were no unconnected nodes to connect in this network!
+Node mutated in child
+Index of new child: 56
+
+There were no unconnected nodes to connect in this network!
+Index of new child: 57
+
+Node mutated in child
+Index of new child: 58
+
+Weight mutated in child
+Index of new child: 59
+
+Weight mutated in child
+Index of new child: 60
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Index of new child: 61
+
+Index of new child: 62
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Index of new child: 63
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Node mutated in child
+Index of new child: 64
+
+Weight mutated in child
+Index of new child: 65
+
+Weight mutated in child
+Index of new child: 66
+
+Weight mutated in child
+Node mutated in child
+Index of new child: 67
+
+Weight mutated in child
+Node mutated in child
+Index of new child: 68
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Node mutated in child
+Index of new child: 69
+
+Weight mutated in child
+Index of new child: 70
+
+Weight mutated in child
+Node mutated in child
+Index of new child: 71
+
+Index of new child: 72
+
+Weight mutated in child
+Index of new child: 73
+
+Weight mutated in child
+Index of new child: 74
+
+Weight mutated in child
+Index of new child: 75
+
+Index of new child: 76
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Node mutated in child
+Index of new child: 77
+
+Weight mutated in child
+Index of new child: 78
+
+Index of new child: 79
+
+Weight mutated in child
+Index of new child: 80
+
+Weight mutated in child
+Index of new child: 81
+
+Weight mutated in child
+Index of new child: 82
+
+Weight mutated in child
+Index of new child: 83
+
+Index of new child: 84
+
+Weight mutated in child
+Index of new child: 85
+
+Weight mutated in child
+Index of new child: 86
+
+Index of new child: 87
+
+Weight mutated in child
+Index of new child: 88
+
+Weight mutated in child
+Node mutated in child
+Index of new child: 89
+
+There were no unconnected nodes to connect in this network!
+Index of new child: 90
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Index of new child: 91
+
+Weight mutated in child
+Node mutated in child
+Index of new child: 92
+
+Weight mutated in child
+Index of new child: 93
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Index of new child: 94
+
+Weight mutated in child
+Node mutated in child
+Index of new child: 95
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Index of new child: 96
+
+Weight mutated in child
+Index of new child: 97
+
+Weight mutated in child
+There were no unconnected nodes to connect in this network!
+Index of new child: 98
+
+Weight mutated in child
+Index of new child: 99
+
